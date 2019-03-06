@@ -1,0 +1,10 @@
+[
+	["TERRITORY_ARUDY_A", "Arudy A", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_ARUDY_A", "", 0, ""],
+	["TERRITORY_ARUDY_B", "Arudy B", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_ARUDY_B", "", 0, ""],
+	["TERRITORY_ARUDY_C", "Arudy C", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_ARUDY_C", "", 0, ""],
+	["TERRITORY_MONTAIN_MILITARY_BASE", "Montain Military Base", 5000, "MILITARY"],
+	["TERRITORY_FLAG_MMB", "", 0, ""]
+]

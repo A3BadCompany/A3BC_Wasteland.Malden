@@ -1,0 +1,10 @@
+[
+	["TERRITORY_GOISSE_A", "Goisse A", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_GOISSE_A", "", 0, ""],
+	["TERRITORY_GOISSE_B", "Goisse B", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_GOISSE_B", "", 0, ""],
+	["TERRITORY_GOISSE_C", "Goisse C", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_GOISSE_C", "", 0, ""],
+	["TERRITORY_MONTAIN_MILITARY_BASE", "Montain Military Base", 5000, "MILITARY"],
+	["TERRITORY_FLAG_MMB", "", 0, ""]
+]

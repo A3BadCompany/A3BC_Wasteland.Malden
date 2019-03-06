@@ -1,0 +1,10 @@
+[
+	["TERRITORY_CHAPOI_A", "Chapoi A", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_CHAPOI_A", "", 0, ""],
+	["TERRITORY_CHAPOI_B", "Chapoi B", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_CHAPOI_B", "", 0, ""],
+	["TERRITORY_CHAPOI_C", "Chapoi C", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_CHAPOI_C", "", 0, ""],
+	["TERRITORY_MONTAIN_MILITARY_BASE", "Montain Military Base", 5000, "MILITARY"],
+	["TERRITORY_FLAG_MMB", "", 0, ""]
+]

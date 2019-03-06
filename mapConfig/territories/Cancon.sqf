@@ -1,0 +1,10 @@
+[
+	["TERRITORY_CANCON_A", "Cancon A", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_CANCON_A", "", 0, ""],
+	["TERRITORY_CANCON_B", "Cancon B", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_CANCON_B", "", 0, ""],
+	["TERRITORY_CANCON_C", "Cancon C", 5000, "AIRBASE"],
+	["TERRITORY_FLAG_CANCON_C", "", 0, ""],
+	["TERRITORY_MONTAIN_MILITARY_BASE", "Montain Military Base", 5000, "MILITARY"],
+	["TERRITORY_FLAG_MMB", "", 0, ""]
+]
